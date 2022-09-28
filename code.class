@@ -1,5 +1,6 @@
 class code{
 		public static void main(string[] args){
-			system.out.println("This is first program file")
+			system.out.println("This is first program file");
+			system.out.println("This is new line added");
 }
 }
